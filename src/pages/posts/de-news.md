@@ -7,16 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! Dringende Wartungsarbeiten der Zollverwaltung am 05.03.25 von 7.00-ca. 8.30 Uhr !!!
-
-
-
-Die Zollverwaltung führt zum o.g. Zeitraum Wartungsarbeiten durch, deshalb können während dieser Zeit keine Nachrichten gesendet oder empfgangen werden:
-
-Beginn Datum - Zeit:      05.03.2025  07:00 Uhr\* Ende Datum - Zeit:         05.03.2025  08:30 UhrVerfahren:                       ATLAS AusfuhrMasterticket:                  INC000006559807Dienststellen:                 alle\* Bitte beachten Sie, dass die Bearbeitung von besonders großen Teilnehmernachrichten (viele Positionen, viele Unterlagen, viele Packstücke, viele Beendigungsanteile etc.)bereits 1h vor Beginn der Wartungsarbeiten deaktiviert wird. Somit ist mit längeren Wartezeiten bei den Antwortnachrichten zu rechnen.
-
-
-
 ### 26.11.2024:***Änderung der Ausgabeansicht von Ausfuhrbegleitdokument und Ausgangsvermerk*** 
 
 Das Ausfuhrbegleitdokument (ABD) und der Ausgangsvermerk erhalten ab dem 23. November 2024 ein leicht verändertes Erscheinungsbild. Die EU-Kommission hat die einheitlichen Druckausgaben (Layouts) für diese Dokumente überarbeitet.
