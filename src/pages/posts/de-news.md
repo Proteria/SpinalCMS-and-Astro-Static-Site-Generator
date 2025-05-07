@@ -7,6 +7,10 @@ author: Anja Füger
 image: ''
 ---
 
+***!!! 07.05.25, 8.30 Uhr: Meldung der Zollverwaltung:Sehr geehrte Damen und Herren, derzeit kommt es im IT- Verfahren ATLAS Ausfuhr zu Verzögerungen im Nachrichtenverkehr.Die Masterticketnummer lautet: INC000006738636.An der Behebung der Störung wird mit Hochdruck gearbeitet.***
+
+
+
 ### 26.11.2024:***Änderung der Ausgabeansicht von Ausfuhrbegleitdokument und Ausgangsvermerk*** 
 
 Das Ausfuhrbegleitdokument (ABD) und der Ausgangsvermerk erhalten ab dem 23. November 2024 ein leicht verändertes Erscheinungsbild. Die EU-Kommission hat die einheitlichen Druckausgaben (Layouts) für diese Dokumente überarbeitet.
