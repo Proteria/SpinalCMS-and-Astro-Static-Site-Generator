@@ -7,13 +7,13 @@ author: Anja Füger
 image: ''
 ---
 
-### <strong>Live-Webinar: </strong>
+## **Live-Webinar:**
 
-### **16. Juni 25, 14.00-16.30 Uhr: Grundlagen der Exportabwicklung**
+## **16. Juni 25, 14.00-16.30 Uhr: Grundlagen der Exportabwicklung**
 
-### **17. Juni 25, 14.00-16.30 Uhr: Grundlagen der Exportkontrolle**
+## **17. Juni 25, 14.00-16.30 Uhr: Grundlagen der Exportkontrolle**
 
-###  <strong>Anmeldung und weitere Informationen dazu auf unserer </strong>[**Webseite**](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
+##  <strong>Anmeldung und weitere Informationen dazu auf unserer </strong>[**Webseite**](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
 
 ## 
 
